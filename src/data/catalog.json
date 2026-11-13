@@ -1,0 +1,690 @@
+{
+  "bottles": [
+    {
+      "id": "8150879928570",
+      "title": "Ace Bottle Medium",
+      "seriesFamily": "Ace Bottle",
+      "size": "Medium",
+      "volume": "530ml/18oz",
+      "variants": [
+        {
+          "id": "45071999172858",
+          "sku": "ACE2-BLK-18OZ",
+          "title": "Black",
+          "image": "https://getmontigo.com/cdn/shop/files/MTAce18ozblack_1.png?v=1791768979&width=200",
+          "price": 32.9,
+          "hex": "#1F1F1F",
+          "allowEngraving": true
+        },
+        {
+          "id": "45071999369466",
+          "sku": "ACE2-FROZEN-18OZ",
+          "title": "Frozen",
+          "image": "https://getmontigo.com/cdn/shop/files/MTAce18ozFrozen_1.png?v=1791768979&width=200",
+          "price": 32.9,
+          "hex": "#FFFFFF",
+          "allowEngraving": true
+        },
+        {
+          "id": "45071999336698",
+          "sku": "ACE2-STGR-18OZ",
+          "title": "Stone Grey",
+          "image": "https://getmontigo.com/cdn/shop/files/MTAce18ozMTStoneGrey_1.png?v=1791768979&width=200",
+          "price": 32.9,
+          "hex": "#FFFFFF",
+          "allowEngraving": true
+        }
+      ]
+    },
+    {
+      "id": "9215929811194",
+      "title": "Cozy Linen Ace Bottle Medium",
+      "seriesFamily": "Ace Bottle",
+      "size": "Medium",
+      "volume": "530ml/18oz",
+      "variants": [
+        {
+          "id": "48840389525754",
+          "sku": "MT-CZLN-ACMD-LNPK-18OZ",
+          "title": "Linen Pink",
+          "image": "https://getmontigo.com/cdn/shop/files/CozyLinenAceMedium-LinenPink_37f2d395-f092-4992-9520-8399e3773a09.png?v=1777886309&width=200",
+          "price": 32.9,
+          "hex": "#FFFFFF",
+          "allowEngraving": true
+        },
+        {
+          "id": "48840389558522",
+          "sku": "MT-CZLN-ACMD-LNPR-18OZ",
+          "title": "Linen Purple",
+          "image": "https://getmontigo.com/cdn/shop/files/CozyLinenAceMedium-LinenPurple_71166c2c-8fc8-4bda-b8b1-e207a7a16f66.png?v=1777886309&width=200",
+          "price": 32.9,
+          "hex": "#FFFFFF",
+          "allowEngraving": true
+        },
+        {
+          "id": "48840389591290",
+          "sku": "MT-CZLN-ACMD-LNBN-18OZ",
+          "title": "Linen Brown",
+          "image": "https://getmontigo.com/cdn/shop/files/CozyLinenAceMedium-LinenBrown_45264bcf-d232-4c63-871c-3b12442be6a5.png?v=1777886309&width=200",
+          "price": 32.9,
+          "hex": "#FFFFFF",
+          "allowEngraving": true
+        },
+        {
+          "id": "48840389624058",
+          "sku": "MT-CZLN-ACMD-LNBL-18OZ",
+          "title": "Linen Blue",
+          "image": "https://getmontigo.com/cdn/shop/files/CozyLinenAceMedium-LinenBlue_e09b2393-0fcb-4fac-8491-cfa64b713b08.png?v=1777886309&width=200",
+          "price": 32.9,
+          "hex": "#FFFFFF",
+          "allowEngraving": true
+        }
+      ]
+    },
+    {
+      "id": "9190607061242",
+      "title": "Miffy Daily Ace Bottle Medium",
+      "seriesFamily": "Ace Bottle",
+      "size": "Medium",
+      "volume": "530ml/18oz",
+      "variants": [
+        {
+          "id": "48678982844666",
+          "sku": "MT-MFFY-ACMD-MFFC-18OZ",
+          "title": "Miffy Feeding Chicken",
+          "image": "https://getmontigo.com/cdn/shop/files/AceMediumMiffyChicken.png?v=1776246044&width=200",
+          "price": 40.9,
+          "hex": "#e59e9e",
+          "allowEngraving": true
+        },
+        {
+          "id": "48678982877434",
+          "sku": "MT-MFFY-ACMD-MFWG-18OZ",
+          "title": "Miffy With Giraffe",
+          "image": "https://getmontigo.com/cdn/shop/files/AceMediumMiffywithGiraffe.png?v=1776301565&width=200",
+          "price": 40.9,
+          "hex": "#b0886e",
+          "allowEngraving": true
+        },
+        {
+          "id": "48678982910202",
+          "sku": "MT-MFFY-ACMD-MFWD-18OZ",
+          "title": "Miffy With Ducks (Medium)",
+          "image": "https://getmontigo.com/cdn/shop/files/AceMediumMiffywithDucks.png?v=1776301565&width=200",
+          "price": 40.9,
+          "hex": "#2D3748",
+          "allowEngraving": true
+        }
+      ]
+    },
+    {
+      "id": "9046652813562",
+      "title": "Palette Parade Ace Bottle Medium",
+      "seriesFamily": "Ace Bottle",
+      "size": "Medium",
+      "volume": "530ml/18oz",
+      "variants": [
+        {
+          "id": "48185308971258",
+          "sku": "MT-PLPD-ACMD-BLPD-18OZ",
+          "title": "Blue Parade [Limited Edition]",
+          "image": "https://getmontigo.com/cdn/shop/files/MT_Palette_Parade_Medium_LE_Blue_Parade_Front_81ce49a5-c0cd-4cc2-9650-922b01e85645.png?v=1767581608&width=200",
+          "price": 32.9,
+          "hex": "#a4dde4",
+          "allowEngraving": true
+        },
+        {
+          "id": "48185309036794",
+          "sku": "MT-PLPD-ACMD-VLPD-18OZ",
+          "title": "Violet Parade",
+          "image": "https://getmontigo.com/cdn/shop/files/MT_Palette_Parade_Medium_Blue_Parade_Front_ba72fc97-5300-4954-87cb-4c27d57548b8.png?v=1767843355&width=200",
+          "price": 32.9,
+          "hex": "#FFFFFF",
+          "allowEngraving": true
+        },
+        {
+          "id": "48185309004026",
+          "sku": "MT-PLPD-ACMD-CLPD-18OZ",
+          "title": "Coral Parade",
+          "image": "https://getmontigo.com/cdn/shop/files/MT_Palette_Parade_Medium_Coral_Parade_Front_c3e464cd-9314-462d-9030-4c3b7c2ef95b.png?v=1767581608&width=200",
+          "price": 32.9,
+          "hex": "#FFFFFF",
+          "allowEngraving": true
+        }
+      ]
+    },
+    {
+      "id": "9179778908410",
+      "title": "Retro Reel Ace Bottle Medium",
+      "seriesFamily": "Ace Bottle",
+      "size": "Medium",
+      "volume": "530ml/18oz",
+      "variants": [
+        {
+          "id": "48614864552186",
+          "sku": "MT-RTRL-ACMD-NVAP-18OZ",
+          "title": "Navy Apricot [Limited Edition]",
+          "image": "https://getmontigo.com/cdn/shop/files/RetroReelAceBottleMediumNavyApricot.png?v=1775448280&width=200",
+          "price": 36.9,
+          "hex": "#FFFFFF",
+          "allowEngraving": true
+        },
+        {
+          "id": "48614864584954",
+          "sku": "MT-RTRL-ACMD-CLPK-18OZ",
+          "title": "Celadon Pink [Limited Edition]",
+          "image": "https://getmontigo.com/cdn/shop/files/RetroReelAceBottleMediumCeladonPink.png?v=1775448280&width=200",
+          "price": 36.9,
+          "hex": "#FFFFFF",
+          "allowEngraving": true
+        },
+        {
+          "id": "48614864617722",
+          "sku": "MT-RTRL-ACMD-GMOC-18OZ",
+          "title": "Gleam Ocean [Limited Edition]",
+          "image": "https://getmontigo.com/cdn/shop/files/RetroReelAceBottleMediumGleamOcean.png?v=1775448280&width=200",
+          "price": 36.9,
+          "hex": "#FFFFFF",
+          "allowEngraving": true
+        },
+        {
+          "id": "48614864650490",
+          "sku": "MT-RTRL-ACMD-APMT-18OZ",
+          "title": "Apricot Mint [Limited Edition]",
+          "image": "https://getmontigo.com/cdn/shop/files/RetroReelAceBottleMediumApricotMint.png?v=1775448280&width=200",
+          "price": 36.9,
+          "hex": "#FFFFFF",
+          "allowEngraving": true
+        }
+      ]
+    },
+    {
+      "id": "8955525759226",
+      "title": "Scandi Ace Bottle Medium",
+      "seriesFamily": "Ace Bottle",
+      "size": "Medium",
+      "volume": "530ml/18oz",
+      "variants": [
+        {
+          "id": "47818782048506",
+          "sku": "MT-SCND-ACMD-SCGB-18OZ",
+          "title": "Scandi Gooseberry",
+          "image": "https://getmontigo.com/cdn/shop/files/Scandi_Ace_Bottle_Medium_Purple_6e8800f3-514c-4d82-944a-cc7aee3da1f0.png?v=1760343860&width=200",
+          "price": 32.9,
+          "hex": "#FFFFFF",
+          "allowEngraving": true
+        },
+        {
+          "id": "47818782081274",
+          "sku": "MT-SCND-ACMD-SCCH-18OZ",
+          "title": "Scandi Chai",
+          "image": "https://getmontigo.com/cdn/shop/files/Scandi_Ace_Bottle_Medium_Yellow_e0421edb-79a5-45c0-a2c3-342975fef9a0.png?v=1760343860&width=200",
+          "price": 32.9,
+          "hex": "#FFFFFF",
+          "allowEngraving": true
+        },
+        {
+          "id": "47818782114042",
+          "sku": "MT-SCND-ACMD-SCCO-18OZ",
+          "title": "Scandi Cocoa",
+          "image": "https://getmontigo.com/cdn/shop/files/ScandiAceBottleMediumBeige_ab93ccc8-ed27-4435-877b-8126d3b70639.png?v=1760343860&width=200",
+          "price": 32.9,
+          "hex": "#FFFFFF",
+          "allowEngraving": true
+        },
+        {
+          "id": "47818782146810",
+          "sku": "MT-SCND-ACMD-SCBL-18OZ",
+          "title": "Scandi Blue",
+          "image": "https://getmontigo.com/cdn/shop/files/Scandi_Ace_Bottle_Medium_Blue_b6937538-090c-43ce-b593-a49ab902bc10.png?v=1761204880&width=200",
+          "price": 32.9,
+          "hex": "#FFFFFF",
+          "allowEngraving": true
+        },
+        {
+          "id": "47818782179578",
+          "sku": "MT-SCND-ACMD-SCSG-18OZ",
+          "title": "Scandi Sage",
+          "image": "https://getmontigo.com/cdn/shop/files/Scandi_Ace_Bottle_Medium_Green.png?v=1761204880&width=200",
+          "price": 32.9,
+          "hex": "#FFFFFF",
+          "allowEngraving": true
+        }
+      ]
+    },
+    {
+      "id": "9218242773242",
+      "title": "Toy Story Inseparable Pals Ace Bottle Medium",
+      "seriesFamily": "Ace Bottle",
+      "size": "Medium",
+      "volume": "530ml/18oz",
+      "variants": [
+        {
+          "id": "48854094741754",
+          "sku": "MT-TYST-ACMD-SDRX-18OZ",
+          "title": "Slinky Dog and Rex",
+          "image": "https://getmontigo.com/cdn/shop/files/ProductPage_Medium_silver_front.png?v=1778047002&width=200",
+          "price": 40.9,
+          "hex": "#f1f6fb",
+          "allowEngraving": true
+        },
+        {
+          "id": "48854094774522",
+          "sku": "MT-TYST-ACMD-BCTX-18OZ",
+          "title": "Buttercup and Trixie",
+          "image": "https://getmontigo.com/cdn/shop/files/ProductPage_Medium_peach_front.png?v=1778047002&width=200",
+          "price": 40.9,
+          "hex": "#fadbd5",
+          "allowEngraving": true
+        },
+        {
+          "id": "48854094807290",
+          "sku": "MT-TYST-ACMD-ALPH-18OZ",
+          "title": "Alien and Mr. Potato Head",
+          "image": "https://getmontigo.com/cdn/shop/files/ProductPage_Medium_blue_front.png?v=1778047002&width=200",
+          "price": 40.9,
+          "hex": "#c5dbff",
+          "allowEngraving": true
+        }
+      ]
+    },
+    {
+      "id": "9292895748346",
+      "title": "Vibrant Candy Ace Bottle Medium",
+      "seriesFamily": "Ace Bottle",
+      "size": "Medium",
+      "volume": "530ml/18oz",
+      "variants": [
+        {
+          "id": "49316378312954",
+          "sku": "MT-VBCA-ACMD-AQCD-18OZ",
+          "title": "Aqua Candy",
+          "image": "https://getmontigo.com/cdn/shop/files/MTVibrantCandyAceMediumAquaCandy.png?v=1783070852&width=200",
+          "price": 32.9,
+          "hex": "#FFFFFF",
+          "allowEngraving": true
+        },
+        {
+          "id": "49316378345722",
+          "sku": "MT-VBCA-ACMD-ARCD-18OZ",
+          "title": "Apricot Candy",
+          "image": "https://getmontigo.com/cdn/shop/files/MTVibrantCandyAceMediumApricotCandy.png?v=1783070852&width=200",
+          "price": 32.9,
+          "hex": "#FFFFFF",
+          "allowEngraving": true
+        },
+        {
+          "id": "50530309472506",
+          "sku": "MT-VBCA-ACMD-APCD-18OZ",
+          "title": "Apple Candy",
+          "image": "https://getmontigo.com/cdn/shop/files/MT_Vibrant_Candy_Ace_Medium_Apple_Candy.png?v=1790153418&width=200",
+          "price": 32.9,
+          "hex": "#D9C0A9",
+          "allowEngraving": true
+        }
+      ]
+    }
+  ],
+  "bootCategories": [
+    {
+      "id": "non-slip-boot",
+      "title": "Ace Non-Slip Silicone Boot",
+      "tagline": "Heavy-duty shock absorption & silent landing",
+      "description": "Engineered from thick food-grade silicone to shield bottle bases against dents, scuffs, and noisy desk clanks. Dishwasher-safe.",
+      "price": 8.9,
+      "badge": "Best Seller",
+      "variants": [
+        {
+          "id": "boot-pea",
+          "title": "Pea Green",
+          "hex": "#C4CEC2",
+          "image": "https://getmontigo.com/cdn/shop/files/Boot_Medium_Pea.png?v=1728640867&width=400"
+        },
+        {
+          "id": "boot-frozen",
+          "title": "Frozen Cyan",
+          "hex": "#006975",
+          "image": "https://getmontigo.com/cdn/shop/files/Boot_Medium_Frozen_210x_b7977257-9aee-4ed2-8474-69d204f130ac.webp?v=1784093822&width=400"
+        },
+        {
+          "id": "boot-caramel",
+          "title": "Caramel Latte",
+          "hex": "#D7C4B7",
+          "image": "https://getmontigo.com/cdn/shop/files/Boot_Medium_Caramel.png?v=1728640867&width=400"
+        },
+        {
+          "id": "boot-blush",
+          "title": "Blush Pink",
+          "hex": "#F4DDE2",
+          "image": "https://getmontigo.com/cdn/shop/files/Boot_Medium_Blush.png?v=1728640867&width=400"
+        },
+        {
+          "id": "boot-grey",
+          "title": "Cool Grey",
+          "hex": "#C7C9C7",
+          "image": "https://getmontigo.com/cdn/shop/files/Boot_Medium_Cool_Grey.png?v=1728640867&width=400"
+        },
+        {
+          "id": "boot-black",
+          "title": "Midnight Black",
+          "hex": "#1F1F1F",
+          "image": "https://getmontigo.com/cdn/shop/files/Boot_Medium_Black.png?v=1728640867&width=400"
+        },
+        {
+          "id": "boot-cranberry",
+          "title": "Cranberry Red",
+          "hex": "#8A2B3D",
+          "image": "https://getmontigo.com/cdn/shop/files/Boot_Medium_Cranberry.png?v=1728640867&width=400"
+        },
+        {
+          "id": "boot-butter",
+          "title": "Butter Yellow",
+          "hex": "#F9E4B7",
+          "image": "https://getmontigo.com/cdn/shop/files/Boot_Medium_Butter.png?v=1728640867&width=400"
+        }
+      ]
+    },
+    {
+      "id": "boot-charm",
+      "title": "Retro Reel Charm Boot Protector",
+      "tagline": "Customizable charm slot with bumper reinforcement",
+      "description": "Protective silicone boot equipped with an interchangeable charm loop. Features extra corner cushioning and textured grip grooves.",
+      "price": 10.9,
+      "badge": "Trending",
+      "variants": [
+        {
+          "id": "btch-peach",
+          "title": "Retro Peach",
+          "hex": "#F6CDB3",
+          "image": "https://getmontigo.com/cdn/shop/files/RetroReelMediumBootCharm-Peach.png?v=1775448298&width=400"
+        },
+        {
+          "id": "btch-sage",
+          "title": "Retro Sage",
+          "hex": "#DDDFDE",
+          "image": "https://getmontigo.com/cdn/shop/files/RetroReelMediumBootCharm-Sage.png?v=1775448298&width=400"
+        },
+        {
+          "id": "btch-navy",
+          "title": "Retro Navy",
+          "hex": "#6C758B",
+          "image": "https://getmontigo.com/cdn/shop/files/RetroReelMediumBootCharm-Navy.png?v=1775448298&width=400"
+        },
+        {
+          "id": "btch-rose",
+          "title": "Retro Rose",
+          "hex": "#DDB2B6",
+          "image": "https://getmontigo.com/cdn/shop/files/RetroReelMediumBootCharm-Rose.png?v=1775448298&width=400"
+        },
+        {
+          "id": "btch-jade",
+          "title": "Retro Jade",
+          "hex": "#C2CBC2",
+          "image": "https://getmontigo.com/cdn/shop/files/RetroReelMediumBootCharm-Jade.png?v=1775448298&width=400"
+        },
+        {
+          "id": "btch-lemon",
+          "title": "Retro Lemon",
+          "hex": "#F7E3B7",
+          "image": "https://getmontigo.com/cdn/shop/files/RetroReelMediumBootCharm-Lemon.png?v=1775448298&width=400"
+        }
+      ]
+    },
+    {
+      "id": "cloud-boot-charm",
+      "title": "Cloud Boot Charm Protector",
+      "tagline": "Whimsical scalloped cloud rim with drop shield",
+      "description": "Playful sculpted cloud silicone base protector that absorbs impacts up to 5 feet while giving your bottle a distinct dreamy look.",
+      "price": 10.9,
+      "badge": "New Release",
+      "variants": [
+        {
+          "id": "cld-purple",
+          "title": "Cloud Purple",
+          "hex": "#A09BBF",
+          "image": "https://getmontigo.com/cdn/shop/files/MTVibrantCandyCloudCharmBootMedium_Purple.png?v=1783070849&width=400"
+        },
+        {
+          "id": "cld-red",
+          "title": "Cloud Cherry Red",
+          "hex": "#D46C66",
+          "image": "https://getmontigo.com/cdn/shop/files/MTVibrantCandyCloudCharmBootMedium_Red_back.png?v=1783070849&width=400"
+        },
+        {
+          "id": "cld-blue",
+          "title": "Cloud Sky Blue",
+          "hex": "#73CDD5",
+          "image": "https://getmontigo.com/cdn/shop/files/MTVibrantCandyCloudCharmBootMedium_SkyBlue_back.png?v=1783070849&width=400"
+        }
+      ]
+    },
+    {
+      "id": "jelly-boot-charm",
+      "title": "Jelly Joy Translucent Boot Protector",
+      "tagline": "Semi-translucent shock bumper with glow tint",
+      "description": "Infused with ultra-pure elastic polymer for high spring-back impact absorption and glossy candy sheen.",
+      "price": 10.9,
+      "badge": "Limited Edition",
+      "variants": [
+        {
+          "id": "jelly-peach",
+          "title": "Jelly Peach",
+          "hex": "#FFB088",
+          "image": "https://cdn.shopify.com/s/files/1/0568/5483/9459/files/MTJellyJoyPeachMediumBoot.png?v=1791257847"
+        },
+        {
+          "id": "jelly-rose",
+          "title": "Jelly Rose",
+          "hex": "#F7A8B8",
+          "image": "https://getmontigo.com/cdn/shop/files/Boot_Medium_Blush.png?v=1728640867&width=400"
+        },
+        {
+          "id": "jelly-mint",
+          "title": "Jelly Mint",
+          "hex": "#A8E6CF",
+          "image": "https://getmontigo.com/cdn/shop/files/Boot_Medium_Pea.png?v=1728640867&width=400"
+        }
+      ]
+    }
+  ],
+  "capCategories": [
+    {
+      "id": "ace-spout-cap",
+      "title": "Ace Spout Cap",
+      "tagline": "High-flow chug spout with silicone rim seal",
+      "description": "Ergonomic wide-mouth spout cap featuring leak-proof silicone gasket, impact-resistant hinge lock, and comfort grab handle.",
+      "price": 8.9,
+      "variants": [
+        {
+          "id": "sp-misty",
+          "title": "Misty Lilac",
+          "hex": "#C8CEEA",
+          "image": "https://getmontigo.com/cdn/shop/files/SpoutCap_Misty_Lilac.png?v=1728642143&width=400"
+        },
+        {
+          "id": "sp-blue",
+          "title": "Cornflower Blue",
+          "hex": "#89ABE3",
+          "image": "https://getmontigo.com/cdn/shop/files/SpoutCap_Cornflower_Blue.png?v=1728642143&width=400"
+        },
+        {
+          "id": "sp-blush",
+          "title": "Blush Pink",
+          "hex": "#F4DDE2",
+          "image": "https://getmontigo.com/cdn/shop/files/SpoutCap_Blush.png?v=1728642143&width=400"
+        },
+        {
+          "id": "sp-grey",
+          "title": "Cool Grey",
+          "hex": "#C7C9C7",
+          "image": "https://getmontigo.com/cdn/shop/files/SpoutCap_Cool_Grey.png?v=1728642143&width=400"
+        },
+        {
+          "id": "sp-frozen",
+          "title": "Frozen Teal",
+          "hex": "#006975",
+          "image": "https://getmontigo.com/cdn/shop/files/AceSpoutCap_Frozen.png?v=1728642144&width=400"
+        },
+        {
+          "id": "sp-yellow",
+          "title": "Lemon Pop",
+          "hex": "#F8DE93",
+          "image": "https://getmontigo.com/cdn/shop/files/Ace_Spout_Cap_yellow.png?v=1740647741&width=400"
+        }
+      ]
+    },
+    {
+      "id": "ace-flex-cap",
+      "title": "Ace Flex Cap",
+      "tagline": "Flexible silicone strap handle & insulated seal",
+      "description": "Minimalist screw-top lid with a soft-touch flexible silicone carry handle that rotates 180° for effortless portability.",
+      "price": 8.9,
+      "variants": [
+        {
+          "id": "fl-black",
+          "title": "Matte Black",
+          "hex": "#1F1F1F",
+          "image": "https://getmontigo.com/cdn/shop/files/AceFlexCap_black_cb27b4dd-7e17-4427-9d7f-13ead8fc2ccd.png?v=1734951819&width=400"
+        },
+        {
+          "id": "fl-grey",
+          "title": "Warm Grey",
+          "hex": "#BFB8AF",
+          "image": "https://getmontigo.com/cdn/shop/files/AceFlexCap_Grey_2e3dc341-f59b-4c2d-bab0-1db5a65bfe4d.png?v=1734952045&width=400"
+        },
+        {
+          "id": "fl-coolgrey",
+          "title": "Cool Grey",
+          "hex": "#C7C9C7",
+          "image": "https://getmontigo.com/cdn/shop/files/AceFlexCap_Cool_Grey_f570622e-8636-4ee2-8d11-284b33da6750.png?v=1734952045&width=400"
+        },
+        {
+          "id": "fl-blush",
+          "title": "Blush Pink",
+          "hex": "#F4DDE2",
+          "image": "https://getmontigo.com/cdn/shop/files/AceFlexCap_blush_af14b7bf-1531-4e42-8209-7042ba99b6b1.png?v=1734951819&width=400"
+        },
+        {
+          "id": "fl-lemon",
+          "title": "Lemon Sorbet",
+          "hex": "#F8DE93",
+          "image": "https://getmontigo.com/cdn/shop/files/AceFlexCap_lemon.png?v=1734951819&width=400"
+        }
+      ]
+    },
+    {
+      "id": "ace-flip-cap",
+      "title": "Ace Flip Cap",
+      "tagline": "One-click push button with built-in straw",
+      "description": "Spring-loaded protective flip cover keeps the drinking straw sterile and protected from dirt, dust, and external impacts.",
+      "price": 10.9,
+      "variants": [
+        {
+          "id": "fp-matcha",
+          "title": "Matcha Latte",
+          "hex": "#AEAE92",
+          "image": "https://getmontigo.com/cdn/shop/files/Retro_Reel_Ace_Flip_Cap_BAU_-_Matcha_Latte_1.png?v=1781082978&width=400"
+        },
+        {
+          "id": "fp-icy",
+          "title": "Icy Blue",
+          "hex": "#C3E3E7",
+          "image": "https://getmontigo.com/cdn/shop/files/Retro_Reel_Ace_Flip_Cap_BAU_-_Icy_Blue_1.png?v=1781082977&width=400"
+        },
+        {
+          "id": "fp-lightpink",
+          "title": "Light Pink",
+          "hex": "#F9B5C4",
+          "image": "https://getmontigo.com/cdn/shop/files/RetroReelAceFlipCapBAU-LightPink.png?v=1775448304&width=400"
+        },
+        {
+          "id": "fp-lavender",
+          "title": "Lavender Mist",
+          "hex": "#D6BFDD",
+          "image": "https://getmontigo.com/cdn/shop/files/Retro_Reel_Ace_Flip_Cap_BAU_-_Lavender_1.png?v=1781082978&width=400"
+        },
+        {
+          "id": "fp-caramel",
+          "title": "Caramel Latte",
+          "hex": "#D7C4B7",
+          "image": "https://getmontigo.com/cdn/shop/files/Retro_Reel_Ace_Flip_Cap_BAU_-_Caramel_Latte_1.png?v=1781082978&width=400"
+        }
+      ]
+    },
+    {
+      "id": "ace-sip-cap",
+      "title": "Ace Sip Cap",
+      "tagline": "Dual drinking modes (sip or gulp) with soft guard",
+      "description": "Versatile hybrid lid with soft silicone mouthpiece guard and integrated ergonomic loop handle.",
+      "price": 10.9,
+      "variants": [
+        {
+          "id": "sip-rose",
+          "title": "Jelly Rose",
+          "hex": "#F7C9D5",
+          "image": "https://getmontigo.com/cdn/shop/files/MTJellyJoyAceSipCapJellyRose.png?v=1791257792&width=400"
+        },
+        {
+          "id": "sip-mint",
+          "title": "Jelly Mint",
+          "hex": "#D3DDAF",
+          "image": "https://getmontigo.com/cdn/shop/files/MTJellyJoyAceSipCapJellyMint.png?v=1791257792&width=400"
+        },
+        {
+          "id": "sip-blue",
+          "title": "Vibrant Pink Blue",
+          "hex": "#73CDD5",
+          "image": "https://getmontigo.com/cdn/shop/files/MTVibrantCandyAcesipcapblue.png?v=1783070846&width=400"
+        },
+        {
+          "id": "sip-purple",
+          "title": "Vibrant Purple",
+          "hex": "#A09BBF",
+          "image": "https://getmontigo.com/cdn/shop/files/MTVibrantCandyAcesipcappurple.png?v=1783070846&width=400"
+        }
+      ]
+    }
+  ],
+  "charmAndStrapProducts": [
+    {
+      "id": "charm-jelly-joy",
+      "title": "Jelly Joy 4-Piece Charm Set",
+      "category": "Charms",
+      "price": 12.9,
+      "image": "https://cdn.shopify.com/s/files/1/0568/5483/9459/files/MTJellyJoyJellyJoyCharmJellySET.png?v=1791257845",
+      "description": "Waterproof silicone charms designed to snap directly into the Boot Charm or handle slots."
+    },
+    {
+      "id": "charm-retro-reel",
+      "title": "Retro Reel Charm Set",
+      "category": "Charms",
+      "price": 12.9,
+      "image": "https://cdn.shopify.com/s/files/1/0568/5483/9459/files/RetroReelCharmRetroNotes.png?v=1775448161",
+      "description": "Vintage cassette and music note silicone charms for personalizing your protector boot."
+    },
+    {
+      "id": "charm-pooh-set",
+      "title": "Little Joy Character Charm Set",
+      "category": "Charms",
+      "price": 18.9,
+      "image": "https://cdn.shopify.com/s/files/1/0568/5483/9459/files/CharmSetcopy2.png?v=1786000402",
+      "description": "Collector edition soft silicone 3D charm set with reinforced pin locks."
+    },
+    {
+      "id": "strap-retro-reel",
+      "title": "Retro Reel Crossbody Bottle Strap",
+      "category": "Straps",
+      "price": 8.9,
+      "image": "https://cdn.shopify.com/s/files/1/0568/5483/9459/files/Retro_Reel_Bottle_Strap_BAU_-_Matcha_Latte_1.png?v=1781082980",
+      "description": "Durable adjustable nylon strap with anti-slip silicone bottle collar grip for hands-free carrying."
+    },
+    {
+      "id": "carrier-bag-pooh",
+      "title": "Padded Quilted Bottle Carrier Bag",
+      "category": "Bags",
+      "price": 30.9,
+      "image": "https://cdn.shopify.com/s/files/1/0568/5483/9459/files/menu_bottleBag.png",
+      "description": "Shock-proof insulated neoprene bottle protector bag with side pocket for phone and keys."
+    }
+  ]
+}

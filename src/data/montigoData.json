@@ -1,0 +1,896 @@
+{
+  "moneyFormat": "${{amount}} SGD",
+  "bottles": [
+    {
+      "id": "8150879928570",
+      "title": "Ace Bottle Medium",
+      "seriesFamily": "Ace Bottle",
+      "size": "Medium",
+      "volume": "530ml/18oz",
+      "variants": [
+        {
+          "id": "45071999172858",
+          "sku": "ACE2-BLK-18OZ",
+          "title": "Black",
+          "image": "https://getmontigo.com/cdn/shop/files/MTAce18ozblack_1.png?v=1791768979&width=200",
+          "price": 32.9,
+          "hex": "#1F1F1F",
+          "swatchStyle": "background-color: #1f1f1f",
+          "allowEngraving": true
+        },
+        {
+          "id": "45071999369466",
+          "sku": "ACE2-FROZEN-18OZ",
+          "title": "Frozen",
+          "image": "https://getmontigo.com/cdn/shop/files/MTAce18ozFrozen_1.png?v=1791768979&width=200",
+          "price": 32.9,
+          "hex": "#FFFFFF",
+          "swatchStyle": "background-color: #3d5068",
+          "allowEngraving": true
+        },
+        {
+          "id": "45071999336698",
+          "sku": "ACE2-STGR-18OZ",
+          "title": "Stone Grey",
+          "image": "https://getmontigo.com/cdn/shop/files/MTAce18ozMTStoneGrey_1.png?v=1791768979&width=200",
+          "price": 32.9,
+          "hex": "#FFFFFF",
+          "swatchStyle": "background-color: #d9d3cb",
+          "allowEngraving": true
+        }
+      ]
+    },
+    {
+      "id": "9215929811194",
+      "title": "Cozy Linen Ace Bottle Medium",
+      "seriesFamily": "Ace Bottle",
+      "size": "Medium",
+      "volume": "530ml/18oz",
+      "variants": [
+        {
+          "id": "48840389525754",
+          "sku": "MT-CZLN-ACMD-LNPK-18OZ",
+          "title": "Linen Pink",
+          "image": "https://getmontigo.com/cdn/shop/files/CozyLinenAceMedium-LinenPink_37f2d395-f092-4992-9520-8399e3773a09.png?v=1777886309&width=200",
+          "price": 32.9,
+          "hex": "#FFFFFF",
+          "swatchStyle": "background-color: #f6d9de",
+          "allowEngraving": true
+        },
+        {
+          "id": "48840389558522",
+          "sku": "MT-CZLN-ACMD-LNPR-18OZ",
+          "title": "Linen Purple",
+          "image": "https://getmontigo.com/cdn/shop/files/CozyLinenAceMedium-LinenPurple_71166c2c-8fc8-4bda-b8b1-e207a7a16f66.png?v=1777886309&width=200",
+          "price": 32.9,
+          "hex": "#FFFFFF",
+          "swatchStyle": "background-color: #e5d2e6",
+          "allowEngraving": true
+        },
+        {
+          "id": "48840389591290",
+          "sku": "MT-CZLN-ACMD-LNBN-18OZ",
+          "title": "Linen Brown",
+          "image": "https://getmontigo.com/cdn/shop/files/CozyLinenAceMedium-LinenBrown_45264bcf-d232-4c63-871c-3b12442be6a5.png?v=1777886309&width=200",
+          "price": 32.9,
+          "hex": "#FFFFFF",
+          "swatchStyle": "background-color: #e6d3cd",
+          "allowEngraving": true
+        },
+        {
+          "id": "48840389624058",
+          "sku": "MT-CZLN-ACMD-LNBL-18OZ",
+          "title": "Linen Blue",
+          "image": "https://getmontigo.com/cdn/shop/files/CozyLinenAceMedium-LinenBlue_e09b2393-0fcb-4fac-8491-cfa64b713b08.png?v=1777886309&width=200",
+          "price": 32.9,
+          "hex": "#FFFFFF",
+          "swatchStyle": "background-color: #e7eef7",
+          "allowEngraving": true
+        }
+      ]
+    },
+    {
+      "id": "9190607061242",
+      "title": "Miffy Daily Ace Bottle Medium",
+      "seriesFamily": "Ace Bottle",
+      "size": "Medium",
+      "volume": "530ml/18oz",
+      "variants": [
+        {
+          "id": "48678982844666",
+          "sku": "MT-MFFY-ACMD-MFFC-18OZ",
+          "title": "Miffy Feeding Chicken",
+          "image": "https://getmontigo.com/cdn/shop/files/AceMediumMiffyChicken.png?v=1776246044&width=200",
+          "price": 40.9,
+          "hex": "#333",
+          "swatchStyle": "background-color: #e59e9e",
+          "allowEngraving": true
+        },
+        {
+          "id": "48678982877434",
+          "sku": "MT-MFFY-ACMD-MFWG-18OZ",
+          "title": "Miffy With Giraffe",
+          "image": "https://getmontigo.com/cdn/shop/files/AceMediumMiffywithGiraffe.png?v=1776301565&width=200",
+          "price": 40.9,
+          "hex": "#333",
+          "swatchStyle": "background-color: #b0886e",
+          "allowEngraving": true
+        },
+        {
+          "id": "48678982910202",
+          "sku": "MT-MFFY-ACMD-MFWD-18OZ",
+          "title": "Miffy With Ducks (Medium)",
+          "image": "https://getmontigo.com/cdn/shop/files/AceMediumMiffywithDucks.png?v=1776301565&width=200",
+          "price": 40.9,
+          "hex": "#333",
+          "swatchStyle": "background-color: miffy with ducks (medium)",
+          "allowEngraving": true
+        }
+      ]
+    },
+    {
+      "id": "9046652813562",
+      "title": "Palette Parade Ace Bottle Medium",
+      "seriesFamily": "Ace Bottle",
+      "size": "Medium",
+      "volume": "530ml/18oz",
+      "variants": [
+        {
+          "id": "48185308971258",
+          "sku": "MT-PLPD-ACMD-BLPD-18OZ",
+          "title": "Blue Parade [Limited Edition]",
+          "image": "https://getmontigo.com/cdn/shop/files/MT_Palette_Parade_Medium_LE_Blue_Parade_Front_81ce49a5-c0cd-4cc2-9650-922b01e85645.png?v=1767581608&width=200",
+          "price": 32.9,
+          "hex": "#333",
+          "swatchStyle": "background-color: #a4dde4",
+          "allowEngraving": true
+        },
+        {
+          "id": "48185309036794",
+          "sku": "MT-PLPD-ACMD-VLPD-18OZ",
+          "title": "Violet Parade",
+          "image": "https://getmontigo.com/cdn/shop/files/MT_Palette_Parade_Medium_Blue_Parade_Front_ba72fc97-5300-4954-87cb-4c27d57548b8.png?v=1767843355&width=200",
+          "price": 32.9,
+          "hex": "#FFFFFF",
+          "swatchStyle": "background-color: #b8b1d8",
+          "allowEngraving": true
+        },
+        {
+          "id": "48185309004026",
+          "sku": "MT-PLPD-ACMD-CLPD-18OZ",
+          "title": "Coral Parade",
+          "image": "https://getmontigo.com/cdn/shop/files/MT_Palette_Parade_Medium_Coral_Parade_Front_c3e464cd-9314-462d-9030-4c3b7c2ef95b.png?v=1767581608&width=200",
+          "price": 32.9,
+          "hex": "#FFFFFF",
+          "swatchStyle": "background-color: #f8b1b6",
+          "allowEngraving": true
+        }
+      ]
+    },
+    {
+      "id": "9179778908410",
+      "title": "Retro Reel Ace Bottle Medium",
+      "seriesFamily": "Ace Bottle",
+      "size": "Medium",
+      "volume": "530ml/18oz",
+      "variants": [
+        {
+          "id": "48614864552186",
+          "sku": "MT-RTRL-ACMD-NVAP-18OZ",
+          "title": "Navy Apricot [Limited Edition]",
+          "image": "https://getmontigo.com/cdn/shop/files/RetroReelAceBottleMediumNavyApricot.png?v=1775448280&width=200",
+          "price": 36.9,
+          "hex": "#FFFFFF",
+          "swatchStyle": "background-color: #f5c1ae",
+          "allowEngraving": true
+        },
+        {
+          "id": "48614864584954",
+          "sku": "MT-RTRL-ACMD-CLPK-18OZ",
+          "title": "Celadon Pink [Limited Edition]",
+          "image": "https://getmontigo.com/cdn/shop/files/RetroReelAceBottleMediumCeladonPink.png?v=1775448280&width=200",
+          "price": 36.9,
+          "hex": "#FFFFFF",
+          "swatchStyle": "background-color: #f5dbdc",
+          "allowEngraving": true
+        },
+        {
+          "id": "48614864617722",
+          "sku": "MT-RTRL-ACMD-GMOC-18OZ",
+          "title": "Gleam Ocean [Limited Edition]",
+          "image": "https://getmontigo.com/cdn/shop/files/RetroReelAceBottleMediumGleamOcean.png?v=1775448280&width=200",
+          "price": 36.9,
+          "hex": "#FFFFFF",
+          "swatchStyle": "background-color: #d0dcd7",
+          "allowEngraving": true
+        },
+        {
+          "id": "48614864650490",
+          "sku": "MT-RTRL-ACMD-APMT-18OZ",
+          "title": "Apricot Mint [Limited Edition]",
+          "image": "https://getmontigo.com/cdn/shop/files/RetroReelAceBottleMediumApricotMint.png?v=1775448280&width=200",
+          "price": 36.9,
+          "hex": "#FFFFFF",
+          "swatchStyle": "background-color: #d1dfc1",
+          "allowEngraving": true
+        }
+      ]
+    },
+    {
+      "id": "8955525759226",
+      "title": "Scandi Ace Bottle Medium",
+      "seriesFamily": "Ace Bottle",
+      "size": "Medium",
+      "volume": "530ml/18oz",
+      "variants": [
+        {
+          "id": "47818782048506",
+          "sku": "MT-SCND-ACMD-SCGB-18OZ",
+          "title": "Scandi Gooseberry",
+          "image": "https://getmontigo.com/cdn/shop/files/Scandi_Ace_Bottle_Medium_Purple_6e8800f3-514c-4d82-944a-cc7aee3da1f0.png?v=1760343860&width=200",
+          "price": 32.9,
+          "hex": "#FFFFFF",
+          "swatchStyle": "background-image: url(//getmontigo.com/cdn/shop/files/Ace_Bottle_-_Scandi_Gooseberry.png?v=1760669827&width=72)",
+          "allowEngraving": true
+        },
+        {
+          "id": "47818782081274",
+          "sku": "MT-SCND-ACMD-SCCH-18OZ",
+          "title": "Scandi Chai",
+          "image": "https://getmontigo.com/cdn/shop/files/Scandi_Ace_Bottle_Medium_Yellow_e0421edb-79a5-45c0-a2c3-342975fef9a0.png?v=1760343860&width=200",
+          "price": 32.9,
+          "hex": "#FFFFFF",
+          "swatchStyle": "background-image: url(//getmontigo.com/cdn/shop/files/Ace_Bottle_-_Scandi_Chai.png?v=1760669827&width=72)",
+          "allowEngraving": true
+        },
+        {
+          "id": "47818782114042",
+          "sku": "MT-SCND-ACMD-SCCO-18OZ",
+          "title": "Scandi Cocoa",
+          "image": "https://getmontigo.com/cdn/shop/files/ScandiAceBottleMediumBeige_ab93ccc8-ed27-4435-877b-8126d3b70639.png?v=1760343860&width=200",
+          "price": 32.9,
+          "hex": "#FFFFFF",
+          "swatchStyle": "background-image: url(//getmontigo.com/cdn/shop/files/Ace_Bottle_-_Scandi_Cocoa.png?v=1760669827&width=72)",
+          "allowEngraving": true
+        },
+        {
+          "id": "47818782146810",
+          "sku": "MT-SCND-ACMD-SCBL-18OZ",
+          "title": "Scandi Blue",
+          "image": "https://getmontigo.com/cdn/shop/files/Scandi_Ace_Bottle_Medium_Blue_b6937538-090c-43ce-b593-a49ab902bc10.png?v=1761204880&width=200",
+          "price": 32.9,
+          "hex": "#FFFFFF",
+          "swatchStyle": "background-image: url(//getmontigo.com/cdn/shop/files/Ace_Bottle_-_Scandi_Blue2.png?v=1761125373&width=72)",
+          "allowEngraving": true
+        },
+        {
+          "id": "47818782179578",
+          "sku": "MT-SCND-ACMD-SCSG-18OZ",
+          "title": "Scandi Sage",
+          "image": "https://getmontigo.com/cdn/shop/files/Scandi_Ace_Bottle_Medium_Green.png?v=1761204880&width=200",
+          "price": 32.9,
+          "hex": "#FFFFFF",
+          "swatchStyle": "background-image: url(//getmontigo.com/cdn/shop/files/Ace_Bottle_-_Scandi_Sage2.png?v=1761125364&width=72)",
+          "allowEngraving": true
+        }
+      ]
+    },
+    {
+      "id": "9218242773242",
+      "title": "Toy Story Inseparable Pals Ace Bottle Medium",
+      "seriesFamily": "Ace Bottle",
+      "size": "Medium",
+      "volume": "530ml/18oz",
+      "variants": [
+        {
+          "id": "48854094741754",
+          "sku": "MT-TYST-ACMD-SDRX-18OZ",
+          "title": "Slinky Dog and Rex",
+          "image": "https://getmontigo.com/cdn/shop/files/ProductPage_Medium_silver_front.png?v=1778047002&width=200",
+          "price": 40.9,
+          "hex": "#333",
+          "swatchStyle": "background-color: #f1f6fbff",
+          "allowEngraving": true
+        },
+        {
+          "id": "48854094774522",
+          "sku": "MT-TYST-ACMD-BCTX-18OZ",
+          "title": "Buttercup and Trixie",
+          "image": "https://getmontigo.com/cdn/shop/files/ProductPage_Medium_peach_front.png?v=1778047002&width=200",
+          "price": 40.9,
+          "hex": "#333",
+          "swatchStyle": "background-color: #fadbd5ff",
+          "allowEngraving": true
+        },
+        {
+          "id": "48854094807290",
+          "sku": "MT-TYST-ACMD-ALPH-18OZ",
+          "title": "Alien and Mr. Potato Head",
+          "image": "https://getmontigo.com/cdn/shop/files/ProductPage_Medium_blue_front.png?v=1778047002&width=200",
+          "price": 40.9,
+          "hex": "#333",
+          "swatchStyle": "background-color: #c5dbffff",
+          "allowEngraving": true
+        }
+      ]
+    },
+    {
+      "id": "9292895748346",
+      "title": "Vibrant Candy Ace Bottle Medium",
+      "seriesFamily": "Ace Bottle",
+      "size": "Medium",
+      "volume": "530ml/18oz",
+      "variants": [
+        {
+          "id": "49316378312954",
+          "sku": "MT-VBCA-ACMD-AQCD-18OZ",
+          "title": "Aqua Candy",
+          "image": "https://getmontigo.com/cdn/shop/files/MTVibrantCandyAceMediumAquaCandy.png?v=1783070852&width=200",
+          "price": 32.9,
+          "hex": "#FFFFFF",
+          "swatchStyle": "background-color: #b1e6e9",
+          "allowEngraving": true
+        },
+        {
+          "id": "49316378345722",
+          "sku": "MT-VBCA-ACMD-ARCD-18OZ",
+          "title": "Apricot Candy",
+          "image": "https://getmontigo.com/cdn/shop/files/MTVibrantCandyAceMediumApricotCandy.png?v=1783070852&width=200",
+          "price": 32.9,
+          "hex": "#FFFFFF",
+          "swatchStyle": "background-color: #fc8520",
+          "allowEngraving": true
+        },
+        {
+          "id": "50530309472506",
+          "sku": "MT-VBCA-ACMD-APCD-18OZ",
+          "title": "Apple Candy",
+          "image": "https://getmontigo.com/cdn/shop/files/MT_Vibrant_Candy_Ace_Medium_Apple_Candy.png?v=1790153418&width=200",
+          "price": 32.9,
+          "hex": "#D9C0A9",
+          "swatchStyle": "background-color: #e17573",
+          "allowEngraving": true
+        }
+      ]
+    }
+  ],
+  "bootProducts": [
+    {
+      "slug": "ace-boot-medium",
+      "title": "Non-slip Boot",
+      "thumbnail": "https://getmontigo.com/cdn/shop/files/Boot_Medium_Frozen_210x_b7977257-9aee-4ed2-8474-69d204f130ac.webp?v=1784093822&width=200",
+      "variants": [
+        {
+          "id": "46739889225978",
+          "sku": "SCUSH2-PEA-S",
+          "title": "Pea",
+          "image": "https://getmontigo.com/cdn/shop/files/Boot_Medium_Pea.png?v=1728640867&width=200",
+          "price": 8.9,
+          "hex": "#C4CEC2",
+          "swatchStyle": "background-color: #D5DCD0"
+        },
+        {
+          "id": "46739889094906",
+          "sku": "SCUSH2-ICYBLU-S",
+          "title": "Icy Blue",
+          "image": "https://getmontigo.com/cdn/shop/files/Boot_Medium_Icy_Blue.png?v=1728640867&width=200",
+          "price": 8.9,
+          "hex": "#C3E3E7",
+          "swatchStyle": "background-color: #CBDFE1"
+        },
+        {
+          "id": "46739889193210",
+          "sku": "SCUSH2-MLILAC-S",
+          "title": "Misty Lilac",
+          "image": "https://getmontigo.com/cdn/shop/files/Boot_Misty_Lilac.png?v=1728640867&width=200",
+          "price": 8.9,
+          "hex": "#C8CEEA",
+          "swatchStyle": "background-color: #D1D3E3"
+        },
+        {
+          "id": "46739889258746",
+          "sku": "SCUSH2-VIOLET-S",
+          "title": "Soft Violet",
+          "image": "https://getmontigo.com/cdn/shop/files/Boot_Medium_Soft_Violet.png?v=1728640867&width=200",
+          "price": 8.9,
+          "hex": "#B4B5DF",
+          "swatchStyle": "background-color: #C6BFE2"
+        },
+        {
+          "id": "46739888931066",
+          "sku": "SCUSH2-CNFLBL-S",
+          "title": "Cornflower Blue",
+          "image": "https://getmontigo.com/cdn/shop/files/Boot_Medium_Cornflower_Blue.png?v=1728640867&width=200",
+          "price": 8.9,
+          "hex": "#89ABE3",
+          "swatchStyle": "background-color: #B4B9DB"
+        },
+        {
+          "id": "46739888865530",
+          "sku": "SCUSH2-BLUSH-S",
+          "title": "Blush",
+          "image": "https://getmontigo.com/cdn/shop/files/Boot_Medium_Blush.png?v=1728640867&width=200",
+          "price": 8.9,
+          "hex": "#F4DDE2",
+          "swatchStyle": "background-color: #EDD8DE"
+        },
+        {
+          "id": "46739888963834",
+          "sku": "SCUSH2-COOLGY-S",
+          "title": "Cool Grey",
+          "image": "https://getmontigo.com/cdn/shop/files/Boot_Medium_Cool_Grey.png?v=1728640867&width=200",
+          "price": 8.9,
+          "hex": "#C7C9C7",
+          "swatchStyle": "background-color: #D2CFCE"
+        },
+        {
+          "id": "46739889029370",
+          "sku": "SCUSH2-FROZEN-S",
+          "title": "Frozen",
+          "image": "https://getmontigo.com/cdn/shop/files/Boot_Medium_Frozen.png?v=1728640867&width=200",
+          "price": 8.9,
+          "hex": "#475D76",
+          "swatchStyle": "background-color: #3d5068"
+        }
+      ]
+    },
+    {
+      "slug": "boot-charm-mini-medium",
+      "title": "Boot Charm",
+      "thumbnail": null,
+      "variants": [
+        {
+          "id": "48185309659386",
+          "sku": "MT-PLPD-BTCH-BL-S",
+          "title": "Palette Parade Blue",
+          "image": "https://getmontigo.com/cdn/shop/files/MTPaletteParadeBootCharmMiniMedium_BlueHole_32d03530-cf9e-4353-8d22-068f1da2e636.png?v=1767581613&width=200",
+          "price": 10.9,
+          "hex": "#adc8f1",
+          "swatchStyle": "background-color: #adc8f1"
+        },
+        {
+          "id": "48185309692154",
+          "sku": "MT-PLPD-BTCH-CRL-S",
+          "title": "Palette Parade Coral",
+          "image": "https://getmontigo.com/cdn/shop/files/MTPaletteParadeBootCharmMiniMedium_CoralHole_10c3aaa2-5349-4d9a-a421-a51b8fff5cc8.png?v=1767581614&width=200",
+          "price": 10.9,
+          "hex": "#ff9d9f",
+          "swatchStyle": "background-color: #ff9d9f"
+        },
+        {
+          "id": "48185309724922",
+          "sku": "MT-PLPD-BTCH-ROSE-S",
+          "title": "Palette Parade Rose",
+          "image": "https://getmontigo.com/cdn/shop/files/MTPaletteParadeBootCharmMiniMedium_RoseHole_e4dc4b50-88e7-4363-a09d-cf957b1ad391.png?v=1767581614&width=200",
+          "price": 10.9,
+          "hex": "#ffd4e3",
+          "swatchStyle": "background-color: #ffd4e3"
+        },
+        {
+          "id": "48185309757690",
+          "sku": "MT-PLPD-BTCH-TL-S",
+          "title": "Palette Parade Teal",
+          "image": "https://getmontigo.com/cdn/shop/files/MTPaletteParadeBootCharmMiniMedium_TealHole_3661a573-56ad-4c08-9238-775e03b2b91d.png?v=1767581613&width=200",
+          "price": 10.9,
+          "hex": "#9ddcec",
+          "swatchStyle": "background-color: #9ddcec"
+        },
+        {
+          "id": "48185309790458",
+          "sku": "MT-PLPD-BTCH-VLT-S",
+          "title": "Palette Parade Violet",
+          "image": "https://getmontigo.com/cdn/shop/files/MTPaletteParadeBootCharmMiniMedium_VioletHole_77c07238-8fb8-4ceb-bb37-bfb52b0bbb09.png?v=1767581613&width=200",
+          "price": 10.9,
+          "hex": "#babbe7",
+          "swatchStyle": "background-color: #babbe7"
+        },
+        {
+          "id": "48185309823226",
+          "sku": "MT-PLPD-BTCH-YL-S",
+          "title": "Palette Parade Yellow",
+          "image": "https://getmontigo.com/cdn/shop/files/MTPaletteParadeBootCharmMiniMedium_YellowHole_0554bf2a-2d8f-436c-9564-0eac2261b84e.png?v=1767581613&width=200",
+          "price": 10.9,
+          "hex": "#ffd79b",
+          "swatchStyle": "background-color: #ffd79b"
+        },
+        {
+          "id": "48614867304698",
+          "sku": "MT-RTRL-BTCH-NV-S",
+          "title": "Retro Reel Navy",
+          "image": "https://getmontigo.com/cdn/shop/files/RetroReelMediumBootCharm-Navy.png?v=1775448298&width=200",
+          "price": 10.9,
+          "hex": "#6c758b",
+          "swatchStyle": "background-color: #6c758b"
+        },
+        {
+          "id": "48614867337466",
+          "sku": "MT-RTRL-BTCH-SG-S",
+          "title": "Retro Reel Sage",
+          "image": "https://getmontigo.com/cdn/shop/files/RetroReelMediumBootCharm-Sage.png?v=1775448298&width=200",
+          "price": 10.9,
+          "hex": "#dddfde",
+          "swatchStyle": "background-color: #dddfde"
+        },
+        {
+          "id": "48614867370234",
+          "sku": "MT-RTRL-BTCH-PE-S",
+          "title": "Retro Reel Peach",
+          "image": "https://getmontigo.com/cdn/shop/files/RetroReelMediumBootCharm-Peach.png?v=1775448298&width=200",
+          "price": 10.9,
+          "hex": "#f6cdb3",
+          "swatchStyle": "background-color: #f6cdb3"
+        },
+        {
+          "id": "48614867403002",
+          "sku": "MT-RTRL-BTCH-ROSE-S",
+          "title": "Retro Reel Rose",
+          "image": "https://getmontigo.com/cdn/shop/files/RetroReelMediumBootCharm-Rose.png?v=1775448298&width=200",
+          "price": 10.9,
+          "hex": "#ddb2b6",
+          "swatchStyle": "background-color: #ddb2b6"
+        },
+        {
+          "id": "48614867435770",
+          "sku": "MT-RTRL-BTCH-JD-S",
+          "title": "Retro Reel Jade",
+          "image": "https://getmontigo.com/cdn/shop/files/RetroReelMediumBootCharm-Jade.png?v=1775448298&width=200",
+          "price": 10.9,
+          "hex": "#c2cbc2",
+          "swatchStyle": "background-color: #c2cbc2"
+        },
+        {
+          "id": "48614867468538",
+          "sku": "MT-RTRL-BTCH-LMN-S",
+          "title": "Retro Reel Lemon",
+          "image": "https://getmontigo.com/cdn/shop/files/RetroReelMediumBootCharm-Lemon.png?v=1775448298&width=200",
+          "price": 10.9,
+          "hex": "#f7e3b7",
+          "swatchStyle": "background-color: #f7e3b7"
+        }
+      ]
+    },
+    {
+      "slug": "cloud-boot-charm-mini-medium",
+      "title": "Cloud Boot Charm",
+      "thumbnail": null,
+      "variants": [
+        {
+          "id": "49316369596666",
+          "sku": "MT-VBCA-CLBC-PR-S",
+          "title": "Vibrant Candy Purple",
+          "image": "https://getmontigo.com/cdn/shop/files/MTVibrantCandyCloudCharmBootMedium_Purple.png?v=1783070849&width=200",
+          "price": 10.9,
+          "hex": "#a09bbf",
+          "swatchStyle": "background-color: #a09bbf"
+        },
+        {
+          "id": "49316369629434",
+          "sku": "MT-VBCA-CLBC-RD-S",
+          "title": "Vibrant Candy Red",
+          "image": "https://getmontigo.com/cdn/shop/files/MTVibrantCandyCloudCharmBootMedium_Red_back.png?v=1783070849&width=200",
+          "price": 10.9,
+          "hex": "#d46c66",
+          "swatchStyle": "background-color: #d46c66"
+        },
+        {
+          "id": "49316369662202",
+          "sku": "MT-VBCA-CLBC-SKBL-S",
+          "title": "Vibrant Candy Sky Blue",
+          "image": "https://getmontigo.com/cdn/shop/files/MTVibrantCandyCloudCharmBootMedium_SkyBlue_back.png?v=1783070849&width=200",
+          "price": 10.9,
+          "hex": "#73cdd5",
+          "swatchStyle": "background-color: #73cdd5"
+        }
+      ]
+    }
+  ],
+  "capProducts": [
+    {
+      "slug": "ace-flex-cap",
+      "title": "Flex Cap",
+      "thumbnail": "https://getmontigo.com/cdn/shop/files/Ace_Flex_Cap_cap_type.png?v=1784093791&width=200",
+      "variants": [
+        {
+          "id": "45842125193466",
+          "sku": "AFC2-BLK",
+          "title": "Black",
+          "image": "https://getmontigo.com/cdn/shop/files/AceFlexCap_black_cb27b4dd-7e17-4427-9d7f-13ead8fc2ccd.png?v=1734951819&width=200",
+          "price": 8.9,
+          "hex": "#1F1F1F",
+          "swatchStyle": "background-color: #1f1f1f"
+        },
+        {
+          "id": "46533414453498",
+          "sku": "AFC2-WGREY",
+          "title": "Grey",
+          "image": "https://getmontigo.com/cdn/shop/files/AceFlexCap_Grey_2e3dc341-f59b-4c2d-bab0-1db5a65bfe4d.png?v=1734952045&width=200",
+          "price": 8.9,
+          "hex": "#BFB8AF",
+          "swatchStyle": "background-color: #d9d3cb"
+        },
+        {
+          "id": "46740314063098",
+          "sku": "AFC2-COOLGY",
+          "title": "Cool Grey",
+          "image": "https://getmontigo.com/cdn/shop/files/AceFlexCap_Cool_Grey_f570622e-8636-4ee2-8d11-284b33da6750.png?v=1734952045&width=200",
+          "price": 8.9,
+          "hex": "#C7C9C7",
+          "swatchStyle": "background-color: #D2CFCE"
+        },
+        {
+          "id": "46740313964794",
+          "sku": "AFC2-BLUSH",
+          "title": "Blush",
+          "image": "https://getmontigo.com/cdn/shop/files/AceFlexCap_blush_af14b7bf-1531-4e42-8209-7042ba99b6b1.png?v=1734951819&width=200",
+          "price": 8.9,
+          "hex": "#F4DDE2",
+          "swatchStyle": "background-color: #EDD8DE"
+        },
+        {
+          "id": "46533414486266",
+          "sku": "AFC2-LEMON",
+          "title": "Lemon",
+          "image": "https://getmontigo.com/cdn/shop/files/AceFlexCap_lemon.png?v=1734951819&width=200",
+          "price": 8.9,
+          "hex": "#f8de93",
+          "swatchStyle": "background-color: #f8de93"
+        }
+      ]
+    },
+    {
+      "slug": "ace-flip-cap",
+      "title": "Flip Cap",
+      "thumbnail": "https://getmontigo.com/cdn/shop/files/Ace_Flip_Cap_cap_type.png?v=1784093792&width=200",
+      "variants": [
+        {
+          "id": "48988841410810",
+          "sku": "MT-CSTM-FLCP-MLT",
+          "title": "Matcha Latte",
+          "image": "https://getmontigo.com/cdn/shop/files/Retro_Reel_Ace_Flip_Cap_BAU_-_Matcha_Latte_1.png?v=1781082978&width=200",
+          "price": 10.9,
+          "hex": "#aeae92",
+          "swatchStyle": "background-color: #aeae92"
+        },
+        {
+          "id": "48988841443578",
+          "sku": "MT-CSTM-FLCP-ICBL",
+          "title": "Icy Blue",
+          "image": "https://getmontigo.com/cdn/shop/files/Retro_Reel_Ace_Flip_Cap_BAU_-_Icy_Blue_1.png?v=1781082977&width=200",
+          "price": 10.9,
+          "hex": "#C3E3E7",
+          "swatchStyle": "background-color: #CBDFE1"
+        },
+        {
+          "id": "48614868287738",
+          "sku": "MT-CSTM-FLCP-LPK",
+          "title": "Light Pink",
+          "image": "https://getmontigo.com/cdn/shop/files/RetroReelAceFlipCapBAU-LightPink.png?v=1775448304&width=200",
+          "price": 10.9,
+          "hex": "#F9B5C4",
+          "swatchStyle": "background-color: #fc9bb6"
+        },
+        {
+          "id": "48988841476346",
+          "sku": "MT-CSTM-FLCP-LAV",
+          "title": "Lavender",
+          "image": "https://getmontigo.com/cdn/shop/files/Retro_Reel_Ace_Flip_Cap_BAU_-_Lavender_1.png?v=1781082978&width=200",
+          "price": 10.9,
+          "hex": "#D6BFDD",
+          "swatchStyle": "background-color: #d6b7d6"
+        },
+        {
+          "id": "48988841509114",
+          "sku": "MT-CSTM-FLCP-CLT",
+          "title": "Caramel Latte",
+          "image": "https://getmontigo.com/cdn/shop/files/Retro_Reel_Ace_Flip_Cap_BAU_-_Caramel_Latte_1.png?v=1781082978&width=200",
+          "price": 10.9,
+          "hex": "#D7C4B7",
+          "swatchStyle": "background-color: #ccbbb2"
+        },
+        {
+          "id": "67650774204666",
+          "sku": "MT-JYJO-FLCP-JPBL",
+          "title": "Jelly Pop Blue",
+          "image": "https://getmontigo.com/cdn/shop/files/MTJellyJoyFlipCapJellyPopBlue.png?v=1791257788&width=200",
+          "price": 10.9,
+          "hex": "#e8cfb8",
+          "swatchStyle": "background-color: #cadaf6"
+        },
+        {
+          "id": "67650774270202",
+          "sku": "MT-JYJO-FLCP-JPGN",
+          "title": "Jelly Pop Green",
+          "image": "https://getmontigo.com/cdn/shop/files/MTJellyJoyFlipCapJellyPopGreen.png?v=1791257789&width=200",
+          "price": 10.9,
+          "hex": "#a7c3c9",
+          "swatchStyle": "background-color: #e0d05f"
+        },
+        {
+          "id": "67650774237434",
+          "sku": "MT-JYJO-FLCP-JPYL",
+          "title": "Jelly Pop Yellow",
+          "image": "https://getmontigo.com/cdn/shop/files/MTJellyJoyFlipCapJellyPopYellow.png?v=1791257787&width=200",
+          "price": 10.9,
+          "hex": "#ecc0d1",
+          "swatchStyle": "background-color: #ffcd86"
+        }
+      ]
+    },
+    {
+      "slug": "ace-sip-cap",
+      "title": "Sip Cap",
+      "thumbnail": "https://getmontigo.com/cdn/shop/files/MTVibrantCandyAcesipcapblue_0731b261-97e9-4185-8959-73023c8f5885.png?v=1785229868&width=200",
+      "variants": [
+        {
+          "id": "49316360978682",
+          "sku": "MT-VBCA-SICP-PKBL",
+          "title": "Vibrant Candy Pink Blue",
+          "image": "https://getmontigo.com/cdn/shop/files/MTVibrantCandyAcesipcapblue.png?v=1783070846&width=200",
+          "price": 10.9,
+          "hex": "#d0d8ec",
+          "swatchStyle": "background-color: #d0d8ec"
+        },
+        {
+          "id": "49316361011450",
+          "sku": "MT-VBCA-SICP-PKPR",
+          "title": "Vibrant Candy Pink Purple",
+          "image": "https://getmontigo.com/cdn/shop/files/MTVibrantCandyAcesipcappurple.png?v=1783070846&width=200",
+          "price": 10.9,
+          "hex": "#bcbae0",
+          "swatchStyle": "background-color: #bcbae0"
+        },
+        {
+          "id": "49316361044218",
+          "sku": "MT-VBCA-SICP-YLTL",
+          "title": "Vibrant Candy Yellow Teal",
+          "image": "https://getmontigo.com/cdn/shop/files/MTVibrantCandyAcesipcapyellow.png?v=1783070846&width=200",
+          "price": 10.9,
+          "hex": "#fbd18b",
+          "swatchStyle": "background-color: #fbd18b"
+        },
+        {
+          "id": "67650774499578",
+          "sku": "MT-JYJO-SICP-JYRS",
+          "title": "Jelly Rose",
+          "image": "https://getmontigo.com/cdn/shop/files/MTJellyJoyAceSipCapJellyRose.png?v=1791257792&width=200",
+          "price": 10.9,
+          "hex": "#f7c9d5",
+          "swatchStyle": "background-color: #f7c9d5"
+        },
+        {
+          "id": "67650774565114",
+          "sku": "MT-JYJO-SICP-JYMT",
+          "title": "Jelly Mint",
+          "image": "https://getmontigo.com/cdn/shop/files/MTJellyJoyAceSipCapJellyMint.png?v=1791257792&width=200",
+          "price": 10.9,
+          "hex": "#d3ddaf",
+          "swatchStyle": "background-color: #d3ddaf"
+        },
+        {
+          "id": "67650774532346",
+          "sku": "MT-JYJO-SICP-JYSK",
+          "title": "Jelly Sky",
+          "image": "https://getmontigo.com/cdn/shop/files/MTJellyJoyAceSipCapJellySky.png?v=1791257792&width=200",
+          "price": 10.9,
+          "hex": "#b0c4e2",
+          "swatchStyle": "background-color: #b0c4e2"
+        }
+      ]
+    },
+    {
+      "slug": "ace-spout-cap",
+      "title": "Spout Cap",
+      "thumbnail": "https://getmontigo.com/cdn/shop/files/Ace_Spout_Cap_yellow.png?v=1740647741&width=200",
+      "variants": [
+        {
+          "id": "46740306919674",
+          "sku": "ASLW2-MLILAC",
+          "title": "Misty Lilac",
+          "image": "https://getmontigo.com/cdn/shop/files/SpoutCap_Misty_Lilac.png?v=1728642143&width=200",
+          "price": 8.9,
+          "hex": "#C8CEEA",
+          "swatchStyle": "background-color: #D1D3E3"
+        },
+        {
+          "id": "46740306657530",
+          "sku": "ASLW2-CNFLBL",
+          "title": "Cornflower Blue",
+          "image": "https://getmontigo.com/cdn/shop/files/SpoutCap_Cornflower_Blue.png?v=1728642143&width=200",
+          "price": 8.9,
+          "hex": "#89ABE3",
+          "swatchStyle": "background-color: #B4B9DB"
+        },
+        {
+          "id": "46740306591994",
+          "sku": "ASLW2-BLUSH",
+          "title": "Blush",
+          "image": "https://getmontigo.com/cdn/shop/files/SpoutCap_Blush.png?v=1728642143&width=200",
+          "price": 8.9,
+          "hex": "#F4DDE2",
+          "swatchStyle": "background-color: #EDD8DE"
+        },
+        {
+          "id": "46740306690298",
+          "sku": "ASLW2-COOLGY",
+          "title": "Cool Grey",
+          "image": "https://getmontigo.com/cdn/shop/files/SpoutCap_Cool_Grey.png?v=1728642143&width=200",
+          "price": 8.9,
+          "hex": "#C7C9C7",
+          "swatchStyle": "background-color: #D2CFCE"
+        },
+        {
+          "id": "46740306755834",
+          "sku": "ASLW2-FROZEN",
+          "title": "Frozen",
+          "image": "https://getmontigo.com/cdn/shop/files/AceSpoutCap_Frozen.png?v=1728642144&width=200",
+          "price": 8.9,
+          "hex": "#006975",
+          "swatchStyle": "background-color: #3d5068"
+        },
+        {
+          "id": "45842124472570",
+          "sku": "ASLW2-BLK",
+          "title": "Black",
+          "image": "https://getmontigo.com/cdn/shop/files/SpoutCap_Black.png?v=1716186763&width=200",
+          "price": 8.9,
+          "hex": "#101820",
+          "swatchStyle": "background-color: #1f1f1f"
+        },
+        {
+          "id": "48185309364474",
+          "sku": "MT-PLPD-SPCP-PRPD",
+          "title": "Purple Red",
+          "image": "https://getmontigo.com/cdn/shop/files/MTPaletteParadeAceSpoutCap_PurpleRed_f64f569c-dfb5-4b67-a691-90f1157b8afa.png?v=1767581612&width=200",
+          "price": 8.9,
+          "hex": "#ccbee7",
+          "swatchStyle": "background-color: #c2b6dd"
+        },
+        {
+          "id": "48185309397242",
+          "sku": "MT-PLPD-SPCP-RDCY",
+          "title": "Red Cyan",
+          "image": "https://getmontigo.com/cdn/shop/files/MTPaletteParadeAceSpoutCap_RedCyan_4c44a3dc-2302-47b4-b811-240b33b63b15.png?v=1767581611&width=200",
+          "price": 8.9,
+          "hex": "#e3776e",
+          "swatchStyle": "background-color: #f77d79"
+        },
+        {
+          "id": "48185309430010",
+          "sku": "MT-PLPD-SPCP-YLGN",
+          "title": "Yellow Green",
+          "image": "https://getmontigo.com/cdn/shop/files/MTPaletteParadeAceSpoutCap_YellowGreen_720371b5-4225-4ca4-8b4b-70103ccc92ca.png?v=1767581611&width=200",
+          "price": 8.9,
+          "hex": "#BED38E",
+          "swatchStyle": "background-color: #ffd79b"
+        },
+        {
+          "id": "48614866649338",
+          "sku": "MT-RTRL-SPCP-BLYL",
+          "title": "Blue Yellow",
+          "image": "https://getmontigo.com/cdn/shop/files/RetroReelSpoutCap-BlueYellow.png?v=1775448293&width=200",
+          "price": 8.9,
+          "hex": "#BDCFCE",
+          "swatchStyle": "background-color: #d1dfdf"
+        },
+        {
+          "id": "48614866682106",
+          "sku": "MT-RTRL-SPCP-MTOR",
+          "title": "Mint Orange",
+          "image": "https://getmontigo.com/cdn/shop/files/RetroReelSpoutCap-MintOrange.png?v=1775448293&width=200",
+          "price": 8.9,
+          "hex": "#F9C0A1",
+          "swatchStyle": "background-color: #d9ebcd"
+        },
+        {
+          "id": "48614866714874",
+          "sku": "MT-RTRL-SPCP-PKPR",
+          "title": "Pink Purple",
+          "image": "https://getmontigo.com/cdn/shop/files/RetroReelSpoutCap-PinkPurple.png?v=1775448293&width=200",
+          "price": 8.9,
+          "hex": "#E0D0DB",
+          "swatchStyle": "background-color: #f7dade"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "MONTiGO Shield & Style — Bottle Accessories & Protectors Customizer",
+  "description": "Interactive customizer and shopping experience for MONTiGO drinkware accessories protectors, silicone non-slip boots, interchangeable caps, charms, and shock-absorbent gear.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
